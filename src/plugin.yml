@@ -1,0 +1,11 @@
+name: Freeze
+author: SkullDev
+main: me.skulldev.Main
+version: 1.0
+description: Use a command to Freeze a Player!
+
+commands:
+  freeze:
+    aliases: [freeze, ss]
+    description: This command freezes a player (/freeze or /ss)!
+    permission: freeze.use
